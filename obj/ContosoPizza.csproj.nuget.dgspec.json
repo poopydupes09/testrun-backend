@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/MOSBOOTY/Documents/MSA/ContosoPizza/ContosoPizza.csproj": {}
+    "/Users/MOSBOOTY/Documents/MSA/testrun-backend/ContosoPizza.csproj": {}
   },
   "projects": {
-    "/Users/MOSBOOTY/Documents/MSA/ContosoPizza/ContosoPizza.csproj": {
+    "/Users/MOSBOOTY/Documents/MSA/testrun-backend/ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/MOSBOOTY/Documents/MSA/ContosoPizza/ContosoPizza.csproj",
+        "projectUniqueName": "/Users/MOSBOOTY/Documents/MSA/testrun-backend/ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "/Users/MOSBOOTY/Documents/MSA/ContosoPizza/ContosoPizza.csproj",
+        "projectPath": "/Users/MOSBOOTY/Documents/MSA/testrun-backend/ContosoPizza.csproj",
         "packagesPath": "/Users/MOSBOOTY/.nuget/packages/",
-        "outputPath": "/Users/MOSBOOTY/Documents/MSA/ContosoPizza/obj/",
+        "outputPath": "/Users/MOSBOOTY/Documents/MSA/testrun-backend/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
